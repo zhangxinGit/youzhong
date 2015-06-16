@@ -1,0 +1,1 @@
+Cloud code project for 优众海淘. Cloud Code Guide: https://cn.avoscloud.com/docs/cloud_code_guide.html
